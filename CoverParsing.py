@@ -9,6 +9,7 @@
 版本：0.9
 開發環境：Python 2.7
 開發人：Colin Lin
+時間：2017/03/12
 """
 import os
 import requests
